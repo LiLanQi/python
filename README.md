@@ -69,6 +69,7 @@
 
 ## day07 
 
-* 了解git并上传代码至github
+* 了解git并上传代码至github  
+* 学习使用markdown语言
 * 阅读squareup API文档
 * 往网页中插入商品数据
