@@ -1,5 +1,5 @@
 from square.client import Client
-client = Client(access_token='EAAAEIl3awo49_UE8Is_9S0pAp2n_0-fIrDfgDnVoSZYU5_dD4ZhWbnPH534oBGh')
+client = Client(access_token='保密')
 file_to_upload_path = "D:\\180.jpg" # Modify this to point to your desired file.
 f_stream = open(file_to_upload_path, "rb")
 
