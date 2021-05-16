@@ -1,3 +1,6 @@
+from square.client import Client
+
+client = Client(access_token='EAAAEIl3awo49_UE8Is_9S0pAp2n_0-fIrDfgDnVoSZYU5_dD4ZhWbnPH534oBGh')
 result = client.catalog.upsert_catalog_object(
                 body={
                     "idempotency_key": uuid,

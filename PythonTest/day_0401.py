@@ -2,7 +2,7 @@ import requests
 import http.cookiejar as cookielib
 
 session = requests.session()
-session.cookies = cookielib.LWPCookieJar(filename='cookies')
+session.cookies = cookielib.LWPCookieJar(filename='../cookies')
 try:
     session.cookies.load(ignore_discard=True)
 except:
