@@ -1,5 +1,5 @@
 from square.client import Client
-client = Client(access_token='EAAAEIl3awo49_UE8Is_9S0pAp2n_0-fIrDfgDnVoSZYU5_dD4ZhWbnPH534oBGh')
+client = Client(access_token='保密')
 result = client.catalog.upsert_catalog_object(
   body = {
     "idempotency_key": "789b8fa6-ac69-4a59-9063-fc111619e1a2",
