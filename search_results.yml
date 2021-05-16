@@ -1,0 +1,41 @@
+products:
+    css: div.organic-offer-wrapper.organic-gallery-offer-inner
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        name:
+            css: p.elements-title-normal__content
+            xpath: null
+            multiple: true
+            type: Text
+        price:
+            css: p.elements-offer-price-normal
+            xpath: null
+            multiple: true
+            type: Text
+        seller_name:
+            css: a.organic-gallery-offer__seller-company
+            xpath: null
+            multiple: true
+            type: Text
+        seller_years:
+            css: span.seller-tag__year
+            xpath: null
+            multiple: true
+            type: Text
+        seller_response_rate:
+            css: p.element-offer-minorder-normal
+            xpath: null
+            multiple: true
+            type: Text
+        image:
+            css: img.J-img-switcher-item
+            xpath: null
+            multiple: true
+            type: Image
+        link:
+            css: img.J-img-switcher-item
+            xpath: null
+            multiple: true
+            type: Link

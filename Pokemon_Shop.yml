@@ -1,0 +1,22 @@
+pokemon:
+    css: li.product
+    xpath: null
+    multiple: true
+    type: Text
+    children:
+        name:
+            css: h2.woocommerce-loop-product__title
+            xpath: null
+            type: Text
+        price:
+            css: span.price
+            xpath: null
+            type: Text
+        product_link:
+            css: a.woocommerce-LoopProduct-link
+            xpath: null
+            type: Link
+        image:
+            css: img.attachment-woocommerce_thumbnail
+            xpath: null
+            type: Image
