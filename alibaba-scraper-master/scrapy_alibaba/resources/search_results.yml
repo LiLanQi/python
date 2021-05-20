@@ -24,11 +24,11 @@ products:
             css: p.element-offer-minorder-normal
             xpath: null
             type: Text
-        image:
-            css: '.seb-img-switcher__imgs img'
-            xpath: null
-            type: Image
         link:
             css: '.organic-gallery-offer-section__title a'
             xpath: null
             type: Link
+        image:
+            css: '.seb-img-switcher__imgs img'
+            xpath: null
+            type: Image

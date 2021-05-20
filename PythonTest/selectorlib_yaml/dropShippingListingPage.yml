@@ -1,0 +1,5 @@
+product_page:
+    css: a.Polaris-Link
+    xpath: null
+    multiple: true
+    type: Link
