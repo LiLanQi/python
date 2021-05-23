@@ -93,10 +93,10 @@
 
 * 使用url调用接口功能
 * 实现图片上传、商品上传功能，并且提供接口  
-
 * SpringBoot学习  
 * Swagger学习  
 * Redis学习  
 * lombok插件学习  
 * 改进商品上传功能
 * 解决项目部署过程中的各种bug问题
+* postman了解及其使用
