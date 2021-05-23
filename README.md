@@ -72,4 +72,31 @@
 * 了解git并上传代码至github  
 * 学习使用markdown语言
 * 阅读squareup API文档
-* 往网页中插入商品数据
+* 往网页中插入商品数据  
+
+
+
+
+
+## day08  
+
+* socket安装以及下载splash
+
+* splash+scrapy爬取阿里动态页面失败 
+* beautifulSoup爬取阿里图片失败
+
+* 爬取dropshipping商品数据，图片爬取失败
+
+
+
+## java学习  
+
+* 使用url调用接口功能
+* 实现图片上传、商品上传功能，并且提供接口  
+
+* SpringBoot学习  
+* Swagger学习  
+* Redis学习  
+* lombok插件学习  
+* 改进商品上传功能
+* 解决项目部署过程中的各种bug问题
